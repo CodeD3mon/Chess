@@ -30,11 +30,6 @@ You must have Python installed (preferably Python 3.8+).
 If any required packages are missing, run:
 
 ```bash
-pip install -r requirements.txt
-```
-
-> If there's no `requirements.txt` file, manually install the only required dependency:
-```bash
 pip install pygame
 ```
 
